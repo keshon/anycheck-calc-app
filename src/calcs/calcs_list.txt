@@ -1,0 +1,75 @@
+Cardiology:
+CHA2DS2-VASc Score
+TIMI Risk Score
+GRACE Score
+HEART Score
+
+Endocrinology:
+Body Mass Index Calculator
+HbA1c Calculator
+ASCVD Risk Estimator
+QFracture-2019 Cardiovascular Disease Risk Calculator
+
+Gastroenterology:
+MELD Score
+Child-Pugh Score
+Rockall Score
+Blatchford Score
+
+Hematology:
+Wells Criteria for DVT and PE
+Geneva Score for PE
+HAS-BLED Score
+CHADS2 Score
+
+Neurology:
+NIH Stroke Scale
+Glasgow Coma Scale
+Hunt and Hess Scale
+Modified Rankin Scale
+
+Oncology:
+TNM Staging System
+Charlson Comorbidity Index
+Karnofsky Performance Scale
+ASCO Breast Cancer Risk Assessment Tool
+AKIN Criteria
+RIFLE Criteria
+MDRD Equation
+Urine Protein-to-Creatinine Ratio Calculator
+DAS28 Score
+BASDAI Score
+Fracture Risk Assessment Tool
+Systemic Lupus Erythematosus Disease Activity Index
+Bishop Score
+Fetal Biometry Calculator
+APGAR Score
+Revised FIGO Staging System
+AUA Symptom Score
+R.E.N.A.L. Nephrometry Score
+Bladder Cancer Risk Calculator
+Prostate Cancer Risk Calculator
+
+Geriatrics:
+Geriatric Depression Scale
+Frailty Index
+Short Portable Mental Status Questionnaire
+Functional Independence Measure
+
+Infectious Disease:
+CURB-65 Score
+APACHE II Score
+Acute Physiology and Chronic Health Evaluation (APACHE) IV Score
+Clinical Pulmonary Infection Score
+
+Psychiatry:
+Hamilton Depression Rating Scale
+Generalized Anxiety Disorder 7-Item Scale
+Alcohol Use Disorders Identification Test (AUDIT)
+Clinical Opiate Withdrawal Scale
+
+Dermatology:
+Body Surface Area Calculator
+Psoriasis Area and Severity Index
+Scoring Atopic Dermatitis (SCORAD) Index
+Melanoma Risk Assessment Tool

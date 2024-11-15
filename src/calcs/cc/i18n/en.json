@@ -1,0 +1,14 @@
+{
+    "age": "Age",
+    "ageUnit": "years",
+    "gender": "Gender",
+    "male": "Male",
+    "female": "Female",
+    "height": "Height",
+    "heightUnit": "cm",
+    "weight": "Weight",
+    "weightUnit": "kg",
+    "creatinine": "Creatinine",
+    "creatinineUnit": "µmol/L",
+    "scoreUnit": "mL/min"
+}

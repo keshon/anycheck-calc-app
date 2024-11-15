@@ -1,0 +1,17 @@
+{
+    "ageAbove65": "Возраст > 65 лет",
+    "sex": "Пол",
+    "male": "Мужской",
+    "female": "Женский",
+    "recentSurgeryOrFracture": "Недавняя операция или перелом",
+    "activeCancer": "Активный рак",
+    "unilateralLowerLimbPain": "Односторонняя боль в нижних конечностях",
+    "unilateralLowerLimbSwelling": "Одностороннее отекание нижней конечности",
+    "hemoptysis": "Кровохарканье",
+    "heartRate": "Частота сердечных сокращений",
+    "systolicBloodPressure": "Систолическое давление",
+    "painOnDeepPalpationOfLowerLimbVeins": "Боль при глубокой пальпации вен нижних конечностей",
+    "previousDVTOrPE": "Ранее перенесенный ТЭЛА или ЛЖТ",
+    "yes": "Да",
+    "no": "Нет"
+}

@@ -1,0 +1,21 @@
+{
+    "age": "Age",
+    "ageUnit": "years",
+    "gender": "Gender",
+    "male": "Male",
+    "female": "Female",
+    "sbp": "Systolic Blood Pressure",
+    "sbpUnit": "mmHg",
+    "tchol": "Total Cholesterol",
+    "hdlc": "HDL Cholesterol",
+    "cholUnit": "mg/dL",
+    "race": "Race",
+    "white": "White",
+    "black": "Black",
+    "other": "Other",
+    "diabetes": "Diabetes",
+    "smoker": "Smoker",
+    "yes": "Yes",
+    "no": "No",
+    "hypertension": "Treatment for hypertension"
+}

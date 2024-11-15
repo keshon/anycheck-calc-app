@@ -1,0 +1,14 @@
+{
+    "age": "Возраст",
+    "ageUnit": "лет",
+    "gender": "Пол",
+    "male": "Мужской",
+    "female": "Женский",
+    "height": "Рост",
+    "heightUnit": "см",
+    "weight": "Вес",
+    "weightUnit": "кг",
+    "creatinine": "Креатинин",
+    "creatinineUnit": "мкмоль/л",
+    "scoreUnit": "мл/мин"
+}

@@ -1,0 +1,81 @@
+{
+    "appName": "AnyCalc",
+    "appLongname": "Medical scores & calculators",
+    "main": {
+        "title": "Home"
+    },
+    "favorites": {
+        "title": "Favorites"
+    },
+    "recent": {
+        "title": "Recent",
+        "clearRecent": "Clear recent history"
+    },
+    "all": {
+        "title": "Catalog"
+    },
+    "settings": {
+        "title": "Settings",
+        "selectLanguage": "Select language",
+        "language": {
+            "system": "Based on system preference",
+            "english": "English",
+            "russian": "Russian"
+        },
+        "recent": "Recent history",
+        "clearRecent": "Clear",
+        "recentCleared": "Cleared",
+        "favorites": "Favorites",
+        "clearFavorites": "Clear",
+        "favoritesCleared": "Cleared",
+        "favoritesConfirm": {
+            "title": "Are you sure?",
+            "confirm": "Yes",
+            "cancel": "Cancel"
+        },
+        "formatTitle": "Display format",
+        "formatExample": "EXAMPLE PREVIEW",
+        "formatItems": {
+            "longAndCategory": "Long title, category",
+            "shortAndCategory": "Short title, category",
+            "longShortAndCategory": "Long & short titles, category",
+            "shortLongAndCategory": "Short & long titles, category",
+            "shortAndLong": "Short title, long title"
+        }
+    },
+    "legal": {
+        "title": "Legal Information",
+        "longtitle": "Official Legal Disclaimer"
+    },
+    "about": {
+        "title": "About",
+        "paragraph_1": "AnyCheck is an up-to-date set of calculators, questionnaires and scales, both for medical professionals - in the case of making clinical decisions, and for patients for the purpose of self-testing.\n\nWe plan to update the list of tools and the calculators themselves in accordance with feedback from the medical community and patients.\n\nWe do not currently include all medical calculators in the app because there is a certain quality threshold based on the strength of the evidence and validation testing.\n\nWe know how important it is that our users can trust AnyCheck's tools.\n\nOur clinical team evaluates factors such as evidence (the quality and quantity of data underlying the tool, including the level of external validation), usefulness (how easy the tool is to use at the bedside and how useful the result is from a clinical perspective), and popularity ( how often the tool is used, according to our analytics).",
+        "paragraph_2": "This app is not a medical instrument. Consult with a doctor",
+        "paragraph_3": "If you have any questions or feedback, please let us know!",
+        "feedbackButton": "Feedback",
+        "feedback": {
+            "title": "Share your ideas",
+            "content": "Please let us know how we can improve our app:",
+            "submitButton": "Submit Feedback",
+            "wait": "Please wait..",
+            "success": "Message sent successfully",
+            "fail": "Error sending message",
+            "dismiss": "Dismiss",
+            "agreement": "By submitting this form you agree to share the following about your device.",
+            "learnMore": "Learn More.."
+        },
+        "techinfo": {
+            "title": "Technical Information",
+            "content": "We collect technical information about your device to help us diagnose issues and improve our app. This information includes your device model, operating system version, and IP address.",
+            "close": "Close"
+        }
+    },
+    "search": {
+        "title": "Search.."
+    },
+    "opencalc": {
+        "enterValues": "Please fill-in all required fields.",
+        "clear": "Clear",
+        "close": "Close"
+    }
+}

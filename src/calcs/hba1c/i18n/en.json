@@ -1,0 +1,17 @@
+{
+    "ageAbove65": "Age > 65",
+    "gender": "Gender",
+    "male": "Male",
+    "female": "Female",
+    "recentSurgeryOrFracture": "Recent Surgery or Fracture",
+    "activeCancer": "Active Cancer",
+    "unilateralLowerLimbPain": "Unilateral Lower Limb Pain",
+    "unilateralLowerLimbSwelling": "Unilateral Lower Limb Swelling",
+    "hemoptysis": "Hemoptysis",
+    "heartRate": "Heart Rate (beats per minute)",
+    "systolicBloodPressure": "Systolic Blood Pressure (mmHg)",
+    "painOnDeepPalpationOfLowerLimbVeins": "Pain on Deep Palpation of Lower Limb Veins",
+    "previousDVTOrPE": "Previous DVT or PE",
+    "yes": "Yes",
+    "no": "No"
+}
